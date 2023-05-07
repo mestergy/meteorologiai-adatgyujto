@@ -1,0 +1,14 @@
+2020 02 03 homerseklet 12
+2020 03 23 homerseklet 9
+2020 02 03 homerseklet 12
+2020 03 02 homerseklet 9
+2021 05 02 paratartalom 40
+2021 04 02 paratartalom 41
+2020 03 02 csapadek 12 mm
+2021 04 08 homerseklet 13
+2021 05 12 csapadek 23
+2021 04 18 csapadek 0
+2021 03 02 paratartalom 32
+2021 05 02 szel 12
+2021 03 02 szel 14
+2020 03 02 szel 30
